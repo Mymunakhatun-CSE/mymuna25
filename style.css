@@ -76,7 +76,11 @@ button:hover{ transform:translateY(-1px); }
 .preview{ margin-top:12px; padding:10px; background:#fff; border-radius:6px; border:1px dashed #e2eef6; }
 .preview output{ display:inline-block; padding:6px 8px; min-width:120px; background:#fcfeff; border-radius:4px; }
 
-section h2{ text-align:center; margin-bottom:18px; }
+.preview-section h2,
+.preview h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
 
 table{
   width:95%;
