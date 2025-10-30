@@ -45,7 +45,7 @@ main {
 }
 
 fieldset{
-  text-align: center;   
+  //text-align: center;   
   border:1px solid #ddd;
   padding:14px 16px;
   margin-bottom:12px;
